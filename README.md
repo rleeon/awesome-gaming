@@ -4,7 +4,10 @@
 
 This is a hand-picked list of tools, launchers, save managers, operating systems, emulators and other projects that make gaming better. Every entry must follow our [rules](CONTRIBUTING.md) before it can be included.
 
-Entries within each category are ordered by first release year. Badges show licensing (green = open source, grey = proprietary or source-available, purple = community) and pricing (blue = free, yellow = freemium, orange = paid).
+Entries within each category are ordered by first release year. 
+
+Badges show licensing, green (open source), grey (proprietary or source-available),
+purple (community) and pricing blue (free), yellow (freemium), orange (paid).
 
 ## Contents
 
