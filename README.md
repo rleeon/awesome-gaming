@@ -1,2 +1,2 @@
 # awesome-gaming
-A curated list of awesome gaming things.
+A list of gaming things, this gaming things need be approved by our [rules](https://github.com/rleeon/awesome-gaming/blob/main/rules.md).
