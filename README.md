@@ -1,7 +1,5 @@
 # Awesome Gaming
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 > A curated list of awesome gaming things.
 
 This is a hand-picked list of tools, launchers, save managers, operating systems, emulators and other projects that make gaming better. Every entry must follow our [rules](CONTRIBUTING.md) before it can be included.
@@ -21,6 +19,18 @@ Entries within each category are ordered by first release year. Badges show lice
 - [Game Development](#game-development)
 - [Communities and Resources](#communities-and-resources)
 
+## Contributing
+
+Contributions are welcome, but please read the [rules](CONTRIBUTING.md) first. Only add projects that you can personally recommend, and explain why in a short description ending with a period.
+
+[os]: https://img.shields.io/badge/Open%20Source-green?style=flat-square
+[prop]: https://img.shields.io/badge/Proprietary-lightgrey?style=flat-square
+[sa]: https://img.shields.io/badge/Source%20Available-lightgrey?style=flat-square
+[community]: https://img.shields.io/badge/Community-purple?style=flat-square
+[free]: https://img.shields.io/badge/Free-blue?style=flat-square
+[freemium]: https://img.shields.io/badge/Freemium-yellow?style=flat-square
+[paid]: https://img.shields.io/badge/Paid-orange?style=flat-square
+
 ## Game Launchers and Libraries
 
 - [Steam](https://store.steampowered.com/) ![Proprietary][prop] ![Free][free] - Largest PC game platform, with library management, workshop mods and controller support (2003).
@@ -34,7 +44,7 @@ Entries within each category are ordered by first release year. Badges show lice
 
 - [GameSave Manager](https://www.gamesave-manager.com/) ![Proprietary][prop] ![Free][free] - Windows tool that detects and backs up save files for a wide range of games (2009).
 - [Ludusavi](https://github.com/mtkennerly/ludusavi) ![Open Source][os] ![Free][free] - Cross-platform backup tool for PC game saves, with support for 19,000+ games and a CLI for scripting (2020).
-- [Hoard](https://github.com/rleeon/hoard) ![Open Source][os] ![Freemium][freemium] - Automatic, versioned game save sync across devices, with optional cloud or self-hosted storage (2026).
+- [Hoard](https://github.com/rleeon/hoard) ![Open Source][os] ![Free][free] - Automatic, versioned game save sync across devices, with optional cloud or self-hosted storage (2026).
 
 ## Operating Systems and Distributions
 
@@ -114,17 +124,4 @@ Entries within each category are ordered by first release year. Badges show lice
 - [PCGamingWiki](https://www.pcgamingwiki.com/) ![Community][community] ![Free][free] - Community wiki with fixes, save locations and configuration details for PC games (2012).
 - [SteamDB](https://steamdb.info/) ![Community][community] ![Free][free] - Tool for tracking Steam prices, game data and sales (2013).
 - [ProtonDB](https://www.protondb.com/) ![Community][community] ![Free][free] - Community database of reports on how well Windows games run with Proton (2018).
-- [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) ![Open Source][os] ![Free][free] - Curated list of open source games and game-related projects (2021).
 - [r/SteamDeck](https://www.reddit.com/r/SteamDeck/) ![Community][community] ![Free][free] - Community for Valve's handheld and its gaming ecosystem (2021).
-
-## Contributing
-
-Contributions are welcome, but please read the [rules](CONTRIBUTING.md) first. Only add projects that you can personally recommend, and explain why in a short description ending with a period.
-
-[os]: https://img.shields.io/badge/Open%20Source-green?style=flat-square
-[prop]: https://img.shields.io/badge/Proprietary-lightgrey?style=flat-square
-[sa]: https://img.shields.io/badge/Source%20Available-lightgrey?style=flat-square
-[community]: https://img.shields.io/badge/Community-purple?style=flat-square
-[free]: https://img.shields.io/badge/Free-blue?style=flat-square
-[freemium]: https://img.shields.io/badge/Freemium-yellow?style=flat-square
-[paid]: https://img.shields.io/badge/Paid-orange?style=flat-square
